@@ -7,3 +7,4 @@ print "Welcome to Tic Tac Toe!"
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 print "Where would you like to go?"
 input = gets.strip
+input_to_index(input)
